@@ -34,19 +34,7 @@ The application logs every action performed, ensuring transparency and traceabil
 
 ## 📂 Project Structure
 
-smart-file-organizer/
-│
-├── main.py
-├── config.json
-├── requirements.txt
-├── .gitignore
-├── README.md
-│
-├── docs/
-│   └── images/
-│       ├── before.png
-│       ├── after.png
-│       └── log-output.png
+![Project Screenshot](docs/images/project.png)
 
 ## ⚙ Configuration
 
@@ -66,6 +54,7 @@ Example:
     "Documents": [".docx", ".xlsx", ".pptx"]
   }
 }
+```
 
 ## ▶ How to Run
 Clone the repository:
