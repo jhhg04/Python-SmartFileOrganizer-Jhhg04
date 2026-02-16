@@ -97,7 +97,7 @@ This tool helps maintain a clean and structured file system automatically, savin
 
 ![Log Screenshot](docs/images/log-output.png)
 
-##🔮 Future Improvements
+## 🔮 Future Improvements
 CLI argument support
 
 Dry-run mode
