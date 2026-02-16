@@ -1,0 +1,11 @@
+{
+  "target_directory": "C:/Users/jhhg820/Downloads",
+  "categories": {
+    "Executables": [".exe", ".msi"],
+    "PDF": [".pdf"],
+    "Images": [".jpg", ".jpeg", ".png", ".gif"],
+    "Videos": [".mp4", ".mov", ".avi"],
+    "Archives": [".zip", ".rar"],
+    "Documents": [".docx", ".xlsx", ".pptx"]
+  }
+}
